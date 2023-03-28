@@ -1,0 +1,4 @@
+digraph honeybadger_cfg {
+rankdir = TB;
+size = "240"
+graph[fontname = Courier, fontsize = 14.0, labeljust = l, nojustify = true];node[shape = record];
